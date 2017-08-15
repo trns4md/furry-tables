@@ -1,0 +1,11 @@
+
+thead, tfoot {
+    background-color:#E82C0C;
+    
+}
+td, th{
+    border: 2px solid black;
+}
+tbody{
+    background-color: #E8FFAA;
+}
