@@ -1,0 +1,24 @@
+tbody{
+    background-color: lightblue;
+    
+}
+td, th{
+    border: 2px solid green;
+}
+img{
+    float: left;
+
+}
+table{
+    float: left;
+}
+th{
+    background-color: darkred;
+    color: white;
+    font-family: cursive;
+}
+tfoot td{
+    background-color: darkred;
+    color: white;
+    font-family: cursive;
+}
